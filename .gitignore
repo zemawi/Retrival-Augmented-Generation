@@ -11,5 +11,6 @@ env/
 ENV/
 # Data files
 data/filtered_complaints.csv
+data/complaints.csv
 data/raw/
 data/*.csv
