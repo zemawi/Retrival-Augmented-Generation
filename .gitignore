@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.ipynb_checkpoints
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+# Data files
+data/filtered_complaints.csv
+data/raw/
+data/*.csv
