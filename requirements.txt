@@ -1,0 +1,33 @@
+# Data and preprocessing
+pandas
+matplotlib
+seaborn
+scikit-learn
+tqdm
+
+# Text cleaning and NLP
+nltk
+spacy
+regex
+
+# Embedding + Semantic Search
+sentence-transformers
+faiss-cpu  # for FAISS
+# OR chromadb (if using ChromaDB instead of FAISS)
+# chromadb
+
+# LangChain (for RAG logic)
+langchain
+openai  # if you're using OpenAI APIs
+# or: mistralai if using Mistral
+
+# UI
+streamlit
+# or: gradio
+
+# Testing
+pytest
+
+# Optional tools
+ipykernel         # for Jupyter
+jupyterlab        # optional: for interactive work
