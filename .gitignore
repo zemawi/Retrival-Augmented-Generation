@@ -9,7 +9,7 @@ venv/
 env/
 .venv/
 ENV/
-# Data files
+# Data file
 data/filtered_complaints.csv
 data/complaints.csv
 data/raw/
