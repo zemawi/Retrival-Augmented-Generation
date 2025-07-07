@@ -39,6 +39,4 @@ This project builds an internal AI chatbot that enables product managers, suppor
    python src/embedding_pipeline.py
 4. Launch chatbot interface:
    streamlit run app.py
-# or
-python app.py  # if using Gradio
 
