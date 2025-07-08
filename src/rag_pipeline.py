@@ -9,7 +9,7 @@ index = faiss.read_index("vector_store/faiss_index.index")
 with open("vector_store/metadata.pkl", "rb") as f:
     metadata = pickle.load(f)
 
-# Load the same embedding model as in Task 2
+
 embed_model = SentenceTransformer("all-MiniLM-L6-v2")
 
 # Load a simple LLM for testing (use GPT-2 for local testing)
